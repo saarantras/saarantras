@@ -1,7 +1,7 @@
 Welcome to my github page!
 - [Publications](https://orcid.org/0000-0002-7531-5280)
 - [Resume](https://drive.google.com/file/d/1eN1ETK6C2POxKbCWYvH4jijPm-7VTup5/view?usp=sharing)
-- Contact: [me@mackenzienoon.com](mailto:me@mackenzienoon.com)
+- [me@mackenzienoon.com](mailto:me@mackenzienoon.com)
 
 <!--
 **saarantras/saarantras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
