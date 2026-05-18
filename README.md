@@ -1,5 +1,5 @@
 Welcome to my github page!
-- [Website](mackenzienoon.com)
+- [Website](https://mackenzienoon.com)
 - [Publications](https://orcid.org/0000-0002-7531-5280)
 - [Resume](https://drive.google.com/file/d/1eN1ETK6C2POxKbCWYvH4jijPm-7VTup5/view?usp=sharing)
 - [Email](mailto:me@mackenzienoon.com)
